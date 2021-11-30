@@ -117,6 +117,31 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Bob",
+      "species": "Ant Eater",
+      "diet": "omnivore",
+      "personalityTraits": [],
+      "id": "12"
+    },
+    {
+      "name": "Robert",
+      "species": "Monkey",
+      "diet": "omnivore",
+      "personalityTraits": [],
+      "id": "13"
+    },
+    {
+      "name": "Robert",
+      "species": "Monkey",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving"
+      ],
+      "id": "14"
     }
   ]
 }
